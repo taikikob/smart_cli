@@ -1,4 +1,4 @@
-**Smart-CLI: AI-Powered Terminal Assistant**
+<h1>Smart-CLI: AI-Powered Terminal Assistant</h1>
 Accelerating Developer Velocity with **Groq** & **llama-3.3-70b-versatile**
 
 Smart-CLI is a Python-based terminal wrapper that acts as an "Auto-Correct" for your command line. <br>
